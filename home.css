@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+}
+.monsoon-special-container, .season-best, .dive-in-style, .international-brands, .daily-care-essentials, .baby-diapers-and-more, .bath-and-shinecare, .feeding-kids-food, .magical-time-with-kids{
+    width:100%; 
+    float: left; 
+}
+.image{
+    width: 100%;
+     vertical-align: middle; 
+}
+.monsoon-speacial{
+   width: 16.66%; 
+   float: left;
+}
+.brands{
+    width: 12.5%;
+    float: left;
+    box-sizing: border-box;
+}
+.section::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.frocks-dresses{
+    width: 33.33%;
+    float: left;
+}
+.dive-in-style-img{
+    width: 20%;
+    float: left;
+}
+.tee-riffic, .feeding-kids, .backyard-play{
+    width: 12.5%;
+    float: left;
+}
+.international-brands-1{
+    width: 20%;
+    float: left;
+}
+.international-brands-2, .accessories, .magical-toys{
+    width: 16.66%;
+    float: left;
+}
+.sole-searchers{
+    width: 25%;
+    float: left;
+}
+.party-look, .ethnic-ready{
+    width: 50%;
+    float: left;
+}
+.daily-care-items{
+    width: 14.28%;
+    float: left;
+}
